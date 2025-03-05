@@ -10,7 +10,6 @@ One On One Chat application | Spring boot & WebSocket | By koduru adi kesava red
 ## Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
 - [Technologies](#technologies)
 
 ## Features
