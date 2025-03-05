@@ -1,6 +1,6 @@
 # Project Name
 
-One On One Chat application | Spring boot & WebSocket | By Alibou
+One On One Chat application | Spring boot & WebSocket | By koduru adi kesava reddy
 
 ## Overview
 
